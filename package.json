@@ -22,8 +22,8 @@
   },
   "homepage": "https://github.com/bergos/mors-sub",
   "dependencies": {
-    "mors": "^0.1.13",
-    "mqtt": "^2.4.0"
+    "mors": "github:bergos/mors",
+    "mqtt": "^2.13.0"
   },
   "devDependencies": {
     "standard": "^9.0.1"
